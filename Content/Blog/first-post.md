@@ -4,7 +4,7 @@ lead: Sample post so you can see how it works
 published: 2023-11-04
 tags: [tag-001, another-sample-tag]
 authors:
-    - name: "Rhod1um"
+    - name: "Veronica"
       gitHubUserName: "Rhod1um"
       xUserName: "Rhod1um"
 ---

@@ -4,9 +4,9 @@ lead: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus f
 published: 2023-11-05
 tags: [tag-001, another-sample-tag]
 authors:
-    - name: "Jan Tesař"
-      gitHubUserName: "tesar-tech"
-      xUserName: "tesar_tech"
+    - name: "Veronica"
+      gitHubUserName: "Rhod1um"
+      xUserName: "Rhod1um"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo. Fusce malesuada vulputate faucibus. Integer in hendrerit nisi. Praesent a hendrerit urna. In non imperdiet elit, sed molestie odio. Fusce ac metus non purus sollicitudin laoreet.
