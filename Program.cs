@@ -36,6 +36,7 @@ app.Run();
 public static class WebsiteKeys
 {
     public const string GitHubRepo = "https://github.com/Rhod1um/Rhod1um.github.io";
+    public const string X = "";
     public const string Title = "Rhod1um's github.";
     public const string BlogPostStorageAddress = $"{GitHubRepo}/tree/main/Content/Blog";
     public const string BlogLead = "Rhod1um's blog";
