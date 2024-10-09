@@ -1,8 +1,8 @@
 ---
 title: "Voting with My Actions: How Libraries Fundamentally Changed Me"
 lead: I went crazy for my local library because I wanted to ‘vote with my actions’. When we borrow books we vote for the existence of libraries. 
-published: 2024-10-24
-tags: [library, libraries, books, reading]
+published: 2024-10-09
+tags: [library, books, reading]
 authors:
     - name: "Veronica Frydkjær"
       gitHubUserName: "Rhod1um"
@@ -63,6 +63,3 @@ The books I've discovered have fundamentally changed my perspectives, proving th
 1.    Sheppard AL, Wolffsohn JS. Digital eye strain: prevalence, measurement and amelioration. BMJ Open Ophthalmol. 2018 Apr 16;3(1):e000146. Available from: https://bmjophth.bmj.com/content/3/1/e000146
  
 2.    Delgado P, Vargas C, Ackerman R, Salmerón L. Don't throw away your printed books: A meta-analysis on the effects of reading media on reading comprehension. Educ Res Rev. 2018 Nov;25:23-38. Available from: https://doi.org/10.1016/j.edurev.2018.09.003
-
-
-
