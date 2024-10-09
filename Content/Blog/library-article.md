@@ -8,8 +8,6 @@ authors:
       gitHubUserName: "Rhod1um"
       xUserName: "Rhod1um"
 ---
-
-# Voting with My Actions: How Libraries Fundamentally Changed Me
  
 I went crazy for my local library because I wanted to ‘vote with my actions’. When we borrow books we vote for the existence of libraries. When we borrow a specific book that we are really interested in, we vote for that book to be kept in stock and available to everyone. When we borrow from a specific genre, we ensure that the library knows it’s popular and wants to buy more of it, expanding the reading-options for the whole population. 
 
