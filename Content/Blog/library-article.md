@@ -1,5 +1,5 @@
 ---
-title: Voting with My Actions: How Libraries Fundamentally Changed Me
+title: "Voting with My Actions How Libraries Fundamentally Changed Me"
 lead: I went crazy for my local library because I wanted to ‘vote with my actions’. When we borrow books we vote for the existence of libraries. 
 published: 2024-10-24
 tags: [library, libraries, books, reading]
