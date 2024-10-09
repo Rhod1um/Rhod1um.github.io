@@ -1,6 +1,6 @@
 ---
 title: First post
-lead: Sample post so you can see how it works
+lead: Test to see how it works.
 published: 2023-11-04
 tags: [tag-001, another-sample-tag]
 authors:
@@ -9,8 +9,9 @@ authors:
       xUserName: "Rhod1um"
 ---
 
-Test to see how it works
-Also here is a sample image:
+Test to see how it works.
+
+##
 
 ![programming bug](media/programming_bug.jpg)
 
