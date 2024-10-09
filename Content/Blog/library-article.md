@@ -1,6 +1,6 @@
 ---
 title: "Voting with My Actions: How Libraries Fundamentally Changed Me"
-lead: I went crazy for my local library because I wanted to ‘vote with my actions’. When we borrow books we vote for the existence of libraries. 
+lead: I went crazy for my local library because I wanted to ‘vote with my actions’. When we borrow books we vote for the existence of libraries. When we borrow a specific book that we are really interested in, we vote for that book to be kept in stock and available to everyone. When we borrow from a specific genre, we ensure that the library knows it’s popular and wants to buy more of it, expanding the reading-options for the whole population.  
 published: 2024-10-09
 tags: [library, books, reading]
 authors:
