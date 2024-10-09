@@ -58,7 +58,7 @@ Supporting our local libraries is more than a duty: it’s a privilege that allo
  
 The books I've discovered have fundamentally changed my perspectives, proving that the right book at the right time can indeed alter the course of one’s life. By voting with our actions, we ensure that libraries continue to thrive and serve as vital centers of learning and community. Let's embrace our role in supporting these invaluable institutions. Whether through borrowing, requesting new books, or simply spreading the word, we have the power to keep our libraries vibrant and accessible for everyone.
  
- 
+##
  
 1.    Sheppard AL, Wolffsohn JS. Digital eye strain: prevalence, measurement and amelioration. BMJ Open Ophthalmol. 2018 Apr 16;3(1):e000146. Available from: https://bmjophth.bmj.com/content/3/1/e000146
  
