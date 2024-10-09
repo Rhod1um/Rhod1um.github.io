@@ -9,7 +9,7 @@ authors:
       xUserName: "Rhod1um"
 ---
 
-Hi, this is a sample post with front matter (YAML) metadata. You can use Markdown to write your content.
+Test to see how it works
 Also here is a sample image:
 
 ![programming bug](media/programming_bug.jpg)
